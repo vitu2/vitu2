@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitu2&label=Profile%20views&color=0e75b6&style=flat" alt="vitu2" /> </p>
 
-- 🔭 no momento estou trabalhando em Projeto desenvolvido pela ImãLearningPlace **HackaDev**
 
 - Email **vitorfacundes123@gmail.com**
 
